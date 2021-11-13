@@ -1,5 +1,5 @@
-# Simple-_login_signup
-# Simple log in and sign up 
+# Simple_login_signup
+# Simple log in and sign up account 
 1. Asks the user to create an account
 
   - By inputing a username and a password
